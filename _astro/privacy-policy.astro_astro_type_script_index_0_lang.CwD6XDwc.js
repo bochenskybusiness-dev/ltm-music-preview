@@ -1,0 +1,1 @@
+import{t as e}from"./smooth-scroll.B29L1930.js";e();
